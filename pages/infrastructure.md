@@ -45,7 +45,7 @@ There are numerous options, premise, cloud, open source and commercial.
 forward-thinking organization. An organization at this stage likely has
 several other ducks in a row. Opportunities here might expanding its use by
 suggesting ways to refactor applications to use the platform or swapping out
-OSS / public solutions for a more costly premise system._
+OSS / public solutions for a more costly premise system [added some lines]._
 
 ## What is the self-service infrastructure is in use?
 
