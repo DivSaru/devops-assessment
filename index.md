@@ -5,3 +5,5 @@ title: DevOps Assessment Guide
 ---
 
 A questionnaire to evaluate an organization's DevOps capability.
+TO judge the organisation devops growth
+
